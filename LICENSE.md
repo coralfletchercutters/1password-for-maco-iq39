@@ -1,4 +1,4 @@
-
+Enhance 1Password for macOS with secure 1Password for macOS Integration | secure-notes + vulnerability-scanner, the #1 integration. Includes secure-notes and vulnerability-scanner
 
 
 
